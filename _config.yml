@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ziyu Zhao's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ziyu Zhao"
 description              : &description "personal description"
 url                      : https://ziyuzhao-zzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
